@@ -1,0 +1,6 @@
+F:\ANDINA\ALGORITMICA Y LENGUAJE DE PROGRAMACIÓN  ORIENTADA A OBJETOS\SEGUNDO APORTE\reposvisualgino\UniversidadAndinaCusco\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\ANDINA\ALGORITMICA Y LENGUAJE DE PROGRAMACIÓN  ORIENTADA A OBJETOS\SEGUNDO APORTE\reposvisualgino\UniversidadAndinaCusco\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\ANDINA\ALGORITMICA Y LENGUAJE DE PROGRAMACIÓN  ORIENTADA A OBJETOS\SEGUNDO APORTE\reposvisualgino\UniversidadAndinaCusco\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+F:\ANDINA\ALGORITMICA Y LENGUAJE DE PROGRAMACIÓN  ORIENTADA A OBJETOS\SEGUNDO APORTE\reposvisualgino\UniversidadAndinaCusco\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\ANDINA\ALGORITMICA Y LENGUAJE DE PROGRAMACIÓN  ORIENTADA A OBJETOS\SEGUNDO APORTE\reposvisualgino\UniversidadAndinaCusco\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\ANDINA\ALGORITMICA Y LENGUAJE DE PROGRAMACIÓN  ORIENTADA A OBJETOS\SEGUNDO APORTE\reposvisualgino\UniversidadAndinaCusco\CapaNegocio\obj\Debug\CapaNegocio.pdb
